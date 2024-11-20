@@ -1,0 +1,8 @@
+C:\Users\233539\Documents\233539 lab 8\act01\act01\bin\Debug\act01.exe.config
+C:\Users\233539\Documents\233539 lab 8\act01\act01\bin\Debug\act01.exe
+C:\Users\233539\Documents\233539 lab 8\act01\act01\bin\Debug\act01.pdb
+C:\Users\233539\Documents\233539 lab 8\act01\act01\obj\Debug\act01.csproj.AssemblyReference.cache
+C:\Users\233539\Documents\233539 lab 8\act01\act01\obj\Debug\act01.csproj.SuggestedBindingRedirects.cache
+C:\Users\233539\Documents\233539 lab 8\act01\act01\obj\Debug\act01.csproj.CoreCompileInputs.cache
+C:\Users\233539\Documents\233539 lab 8\act01\act01\obj\Debug\act01.exe
+C:\Users\233539\Documents\233539 lab 8\act01\act01\obj\Debug\act01.pdb
